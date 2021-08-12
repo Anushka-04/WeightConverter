@@ -1,0 +1,13 @@
+body{
+	margin-top: 70px;
+	background-color: #76d6a8;
+	color: #f5faf8;
+}
+
+.card{
+	background-color: #8ad18c;
+}
+
+.card-block{
+	padding: 10px;
+}
